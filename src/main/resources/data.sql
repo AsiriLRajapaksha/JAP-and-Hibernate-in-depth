@@ -1,0 +1,1 @@
+INSERT INTO Course(id, name) VALUES(10001L, 'JAP in 50 steps');
